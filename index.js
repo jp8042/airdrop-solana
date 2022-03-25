@@ -9,3 +9,7 @@ const {
 } = require('@solana/web3.js');
 
 const newPair = new Keypair();
+
+const publicKey = new PublicKey(newPair._keypair.publicKey).toString();
+
+const secretKey = newPair._keypair.secretKey
