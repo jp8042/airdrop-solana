@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/jp8042/airdrop-solana#readme",
   "dependencies": {
-    "@solana/web3.js": "^1.36.0"
+    "@solana/web3.js": "^1.36.0",
+    "npmlog": "^6.0.1"
   },
   "devDependencies": {
     "eslint": "^8.11.0",
