@@ -57,7 +57,7 @@ $ npm run fixLint
 ```
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](<html> Still on its way, apologies </html>) for details on our code of conduct, and the process for submitting pull requests to us.
 
 1.  Fork it!
 2.  Create your feature branch: `git checkout -b my-new-feature`
