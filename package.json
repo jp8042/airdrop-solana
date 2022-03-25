@@ -1,0 +1,35 @@
+{
+  "name": "airdrop-solana",
+  "version": "1.0.0",
+  "description": "Airdrop refers to the act of sending a cryptocurrency to a wallet, usually for free, to either promote the cryptocurrency or enable developers to test out transactions over the blockchain without spending real money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "source ./.env && nodemon index.js",
+    "lint": "eslint -c .eslintrc.js . --ext .js",
+    "fixLint": "eslint -c .eslintrc.js . --ext .js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jp8042/airdrop-solana.git"
+  },
+  "keywords": [
+    "solana",
+    "airdrop"
+  ],
+  "author": "Jevesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jp8042/airdrop-solana/issues"
+  },
+  "homepage": "https://github.com/jp8042/airdrop-solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.36.0",
+    "npmlog": "^6.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
