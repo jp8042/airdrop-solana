@@ -74,4 +74,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 * VSCode
 ## Authors
 
-* **Jevesh** - *Initial work* - [Jevesh](https://github.com/jp8042)
+* **Jevesh** - *Dev at Clinikk* - [Jevesh](https://github.com/jp8042)
